@@ -1,0 +1,6 @@
+// subjectID(SJ), title, tutorID($), fees, schedule(*), notesLink(&)
+SJ001,Mathematics,T001,60.0,"Monday, 3.00p.m.- 4.30p.m.",https://drive.google.com/drive/folders/113kmOj5G1Rfy0LhBIHwgEuBd3CDKvb3-
+SJ002,English,T002,60.0,"Tuesday, 9.00a.m. - 11.00a.m.",&
+SJ003,History,T003,50.0,*,&
+SJ004,Geography,T003,60.0,"Wednesday, 2.00p.m. - 4.00p.m.",&
+SJ005,Science,T001,50.0,*,&

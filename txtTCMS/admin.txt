@@ -1,0 +1,11 @@
+// ID, name, IC, email, contactNo, address, username(@), password(#)
+A001,Harry,980212028787,harry@gmail.com,0128743627,"Jalan SS 7/8, Ss 7, 47301 Petaling Jaya, Selangor",harrypotter,Iluvhogwarts123@
+A002,Jacob,971023162897,jacob@gmail.com,0124385169,"Taman OUG, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur",@,#
+A003,Alicia,011221023489,alicia@gmail.com,01510233899,"33, Jalan Awan Kecil 4, Bandar Baru Sri Petaling, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",@,#
+A004,Evelyn,990101105432,evelyn.lee@gmail.com,0134567890,"No. 12, Jalan Bukit Indah, 43000 Kajang, Selangor",@,#
+A005,Jacob,971023162897,jacob@gmail.com,0124385169,"Taman OUG, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur",@,#
+A006,Muhammad,980305085671,muhammad.k@gmail.com,0193847562,"No. 8, Lorong Mawar, 11600 Jelutong, Penang",@,#
+A007,Alicia,010702145233,alicia.tan@yahoo.com,0115678203,"22, Jalan SS 15/4C, 47500 Subang Jaya, Selangor",@,#
+A008,Farhan,960812104789,farhan_rahim@hotmail.com,0178472639,"Taman Melawati, 53100 Kuala Lumpur",@,#
+A009,Nurul,000912105555,nurul.amira@gmail.com,0102938475,"Persiaran Bestari, 63000 Cyberjaya, Selangor",@,#
+A010,Kevin,970215086321,kevin.lim@gmail.com,0147384956,"Taman Sutera, 81200 Johor Bahru, Johor",@,#

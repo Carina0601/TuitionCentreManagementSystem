@@ -1,0 +1,11 @@
+// ID, name, IC, email, contactNo, address, username(@), password(#), level (F1-F5), monthOfEnrolment(MM/YYYY), noOfSubjects
+S001,Roger,061015070999,roger@gmail.com,0128746287,"28,Jalan SS 7/6, Ss 7, 47301 Petaling Jaya, Selangor",handsomeroger,Roger1015@,F2,08/2024,3
+S002,William,040205128978,william@gmail.com,0123456789,"74-52, Jalan Hujan Bubuk 5, Taman Overseas Union, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",william,William123$,F5,09/2024,3
+S003,Lily,071023029823,lily@gmail.com,0124328789,"52-68, Jalan Hujan Emas 3, Taman Overseas Union, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",lily,Lily123%,F1,09/2024,3
+S004,Mary,061009032345,mary@gmail.com,0182763894,"Alor Setar, Kedah",@,#,F3,10/2024,3
+S005,Peter,051002061872,peter@gmail.com,0128763265,Pulau Pinang,@,#,F2,10/2024,3
+S006,Amanda,041215089321,amanda.chan@gmail.com,0147236481,Shah Alam,@,#,F3,09/2025,3
+S007,Hafiz,060412105678,hafiz_ali@yahoo.com,0139457263,Kota Bharu,@,#,F1,08/2024,3
+S008,Chong,050607123890,chong.wai@gmail.com,0123847261,Ipoh,@,#,F5,07/2025,2
+S009,Samantha,031101074329,sam_lim@gmail.com,0179384627,Seremban,@,#,F2,06/2025,2
+S010,Arif,070918064532,arif.nordin@gmail.com,0183947562,Melaka,@,#,F4,05/2025,3

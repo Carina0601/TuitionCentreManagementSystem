@@ -1,0 +1,11 @@
+// ID, name, IC, email, contactNo, address, username(@), password(#)
+R001,Carmen,991031083456,c@gmail.com,01297384628,"1-21, Jalan SS 7/14, Ss 7, 47301 Petaling Jaya, Selangor",carmendabest,Carmen123$
+R002,Paul,970421182398,paul@gmail.com,0192791312,"20, Jalan Awan Merah, Taman Yarl, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",@,#
+R003,Layla,950714120348,layla@gmail.com,0194782894,"42, Jalan Nyaman 4, Taman Bukit Indah, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",@,#
+R004,Henry,971002346787,henry@gmail.com,0126783657,"No. 12, Jalan Puteri 3/2, Bandar Puteri, 47100 Puchong, Selangor",@,#
+R005,Wale,981202347865,wale@gmail.com,0181927685,"No. 5, Jalan Kempas 2, Taman Bukit Kempas, 81200 Johor Bahru, Johor",@,#
+R006,John,960412021789,john@gmail.com,0123478965,"Lot 883, Lorong Mawar 3, Taman Mawar, 90000 Sandakan, Sabah",@,#
+R007,Lanny,971023186754,lanny@gmail.com,0161287652,"No. 88, Jalan Setia Impian U13/10G, Setia Alam, 40170 Shah Alam, Selangor",@,#
+R008,Jia Ling,951129037685,jialing@gmail.com,0181982763,"No. 7, Jalan Batu Feringgi, 11100 Batu Feringgi, Pulau Pinang",@,#
+R009,Penny,940506182987,penny@gmail.com,0161237685,"No. 21, Jalan Mengkuang, Taman Seri Indah, 14000 Bukit Mertajam, Pulau Pinang",@,#
+R010,Queenie,950728087654,queenie@gmail.com,0192793765,"No. 15, Jalan Tok Janggut, Kampung Tok Janggut, 16100 Kota Bharu, Kelantan",@,#

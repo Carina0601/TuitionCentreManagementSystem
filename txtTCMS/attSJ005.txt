@@ -1,0 +1,6 @@
+// id(ATT), student id, level, date, status
+ATT001,S003,F1,2025-07-21,Present
+ATT002,S001,F2,2025-07-21,Present
+ATT003,S004,F3,2025-07-21,Absent
+ATT004,S010,F4,2025-07-21,Present
+ATT005,S002,F5,2025-07-21,Late
